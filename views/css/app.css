@@ -1,0 +1,25 @@
+.sm-padding-left
+{
+	padding-left: 2em;
+}
+
+.sm-margin-top
+{
+	margin-top: 0.75em;
+}
+
+.sm-margin-tb
+{
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.round
+{
+	border-radius: 3em;
+}
+
+.red-text
+{
+	color: red;
+}
